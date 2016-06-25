@@ -26,4 +26,4 @@ Enhancements:
 *When scores < 100, each apple worth 10 scores; when scores > 100, there will be a random fixed poison appear on the screen and an apple starts worth 50 scores, if the snake eats the poison, game is over; when scores > 1000, there will be another bomb appear on the screen, and the position of the bomb will change when the snake eats an apple, each apple worth 1000 scores, if the snake eats the poison or the bomb, game is over.
 * Support for start and restart buttons.
 
-
+<img width="678" alt="screen shot 2016-05-18 at 9 25 05 pm" src="https://cloud.githubusercontent.com/assets/2667006/16358275/f5d4787c-3adc-11e6-8674-120e63e2a0e5.png">
