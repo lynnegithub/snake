@@ -1,5 +1,5 @@
 Description:
-============
+-------------------------
 * The game must accept two command-line parameters: 
 (1) "frame-rate", which controls how often the screen is repainted, and (2) speed of the snake, describing how fast the snake moves in the game. E.g. java snake 30 5 describes the framerate of 30 and speed of 5.
 *  `make run` should run with default arguments(it should run with the framerate of 30 and speed of 5 by default)
@@ -10,13 +10,13 @@ Description:
 Development Environment:
 -------------------------
 
-Java: Java(TM) SE Runtime Environment
-Java Version: 1.8.0_92
-OS Name: Mac OS X
-OS Version: 10.11.4
-OS Architecture: x86_64
-Total Memory (MB): 245
-Max Memory (MB): 3641
+* Java: Java(TM) SE Runtime Environment
+* Java Version: 1.8.0_92
+* OS Name: Mac OS X
+* OS Version: 10.11.4
+* OS Architecture: x86_64
+* Total Memory (MB): 245
+* Max Memory (MB): 3641
 
 Enhancements:
 -----------
